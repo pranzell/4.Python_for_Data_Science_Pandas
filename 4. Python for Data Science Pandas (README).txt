@@ -1,0 +1,4 @@
+4. Python for Data Science Pandas
+
+This repository contains few examples related to use of Python's 'PANDAS' package. Deals with day-to-day usage 
+of Pandas in exploring Datasets.
